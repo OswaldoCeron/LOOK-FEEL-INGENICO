@@ -97,12 +97,12 @@
     },
     {
       "item" : "global_item_background_color",
-      "value" : "#000000",
+      "value" : "#FFFFFF",
       "enable" : true
     },
     {
       "item" : "global_primary_button_text_color",
-      "value" : "#FFFFFF",
+      "value" : "#000000",
       "enable" : true
     },
     {
