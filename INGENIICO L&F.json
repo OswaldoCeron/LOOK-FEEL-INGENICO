@@ -139,21 +139,6 @@
       "item" : "summary_item_tip_background_color",
       "value" : "#FFFFFF",
       "enable" : true,
-      "SmartObject" : {
-        "Array" : [
-          [
-            "",
-            true,
-            null,
-            [
-              [
-                {}
-              ]
-            ]
-          ]
-        ]
-      }
-    },
     {
       "item" : "summary_item_selected_tip_background_color",
       "value" : "#0C1E58",
