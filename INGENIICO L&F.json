@@ -62,10 +62,6 @@
       "enable" : true
     },
     {
-      "value" : "#1a447c",
-      "enable" : true
-    },
-    {
       "item" : "home_sub_menu_tex_color",
       "value" : "#0C1E58",
       "enable" : true
