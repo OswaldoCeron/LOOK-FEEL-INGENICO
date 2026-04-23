@@ -3,27 +3,27 @@
   "custom_ui" : [
     {
       "item" : "home_operation_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "item" : "home_amount_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "item" : "home_center_buys_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "item" : "home_coin_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "item" : "home_keyboard_container_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "item" : "home_nav_icon_enable_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "item" : "global_card_selected_background_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
@@ -58,37 +58,37 @@
     },
     {
       "item" : "home_nav_icon_text_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "item" : "home_sub_menu_tex_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
- {
+    {
       "item" : "home_sub_menu_icon_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "item" : "toolbar_background_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "item" : "toolbar_ic_back_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "item" : "merchant_title_text_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "item" : "global_primary_text_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
@@ -103,7 +103,7 @@
     },
     {
       "item" : "global_primary_button_background_color",
-      "value" : "#19B6DD",
+      "value" : "#0C1E58",
       "enable" : true
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "item" : "global_icon_primary_background_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
@@ -123,12 +123,12 @@
     },
     {
       "item" : "signature_container_background_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "item" : "summary_item_title_payment_m_text_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "item" : "summary_item_selected_tip_background_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "item" : "global_tertiary_text_color",
-      "value" : "#19B6DD",
+      "value" : "#0C1E58",
       "enable" : true
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "item" : "global_secondary_text_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "item" : "total_summary_icon_print_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "item" : "global_printer_button_background_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "item" : "global_cancel_button_background_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
@@ -218,7 +218,7 @@
     },
     {
       "item" : "global_checkout_button_background_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
@@ -228,17 +228,17 @@
     },
     {
       "item" : "global_reauthorization_button_background_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "item" : "global_input_primary_text_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "item" : "filter_secondary_text_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
@@ -248,7 +248,7 @@
     },
     {
       "item" : "global_secondary_button_background_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
@@ -258,13 +258,13 @@
     },
     {
       "item" : "global_tertiary_button_background_color",
-      "value" : "#0C1E58",
+      "value" : "#19B6DD",
       "enable" : true
     },
     {
       "enable" : true,
       "item" : "global_fourth_button_background_color",
-      "value" : "#0C1E58"
+      "value" : "#19B6DD"
     }
   ],
   "custom_images_enable" : true,
