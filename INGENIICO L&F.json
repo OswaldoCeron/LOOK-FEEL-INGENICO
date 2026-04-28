@@ -62,7 +62,7 @@
       "enable" : true
     },
     {
-      "item" : "home_sub_menu_tex_color",
+      "item" : "home_sub_menu_text_color",
       "value" : "#19B6DD",
       "enable" : true
     },
