@@ -291,10 +291,10 @@
   "custom_animations_enable" : true,
   "custom_animations" : [
     {
-      "item": "animation_i9000s",
+      "item": "animation_dx4000",
       "value": "",
       "url_report": "",
-      "url_insert": "",
+      "url_insert": "https://raw.githubusercontent.com/OswaldoCeron/LOOK-FEEL-INGENICO/refs/heads/main/insert_slide_approach_ing-DX8000.json",
       "url_remove": "",
       "url_loader": "",
       "enable": true
