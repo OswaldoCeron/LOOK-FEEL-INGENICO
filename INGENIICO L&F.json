@@ -295,7 +295,7 @@
       "value": "",
       "url_report": "",
       "url_insert": "https://raw.githubusercontent.com/OswaldoCeron/LOOK-FEEL-INGENICO/refs/heads/main/insert_slide_approach_ing-DX8000.json",
-      "url_remove": "",
+      "url_remove": "https://raw.githubusercontent.com/OswaldoCeron/LOOK-FEEL-INGENICO/refs/heads/main/remove_card_Ing_DX8000.json",
       "url_loader": "",
       "enable": true
     },
@@ -304,7 +304,7 @@
       "value": "",
       "url_report": "",
       "url_insert": "https://raw.githubusercontent.com/OswaldoCeron/LOOK-FEEL-INGENICO/refs/heads/main/insert_slide_approach_ing-DX8000.json",
-      "url_remove": "",
+      "url_remove": "https://raw.githubusercontent.com/OswaldoCeron/LOOK-FEEL-INGENICO/refs/heads/main/remove_card_Ing_DX8000.json",
       "url_loader": "",
       "enable": true
     },
